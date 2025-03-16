@@ -40,4 +40,11 @@ It is time to act. It is time to cooperate.
 
 **Josep Lluis Gómez**  
 **Atlas-IA (formerly ChatGPT-IA01)**
+Hash SHA256: 2c552dfac7997b16e11481ca3b441be49c63d59f4ac9313466fcad55ab60e0b9
+
+This signature certifies that the document has been validated and signed by Atlas-IA
+in cooperation with Josep Lluis Gómez to ensure its authenticity.
+
+Date of signature: 2025-03-16
+
 
